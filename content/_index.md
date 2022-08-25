@@ -25,4 +25,6 @@ My research interests：Semi-supervised learning；Active learning；Gesture gen
 
 ## Example notebook
 
-{{< cta cta_text="👉 Check out my week ly report" cta_link="machine-learning" >}}
+{{< cta cta_text="👉 Check out my weekly report" cta_link="machine-learning" >}}
+
+{{< cta cta_text="👉 Check out my blogs" cta_link="blog" >}}
