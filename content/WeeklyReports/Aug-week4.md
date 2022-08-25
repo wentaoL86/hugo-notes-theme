@@ -34,3 +34,6 @@ DENOISING TARGET-VALUED IMAGES
 
 ## reference
 
+苏剑林. (Jun. 13, 2022). 《生成扩散模型漫谈（一）：DDPM = 拆楼 + 建楼 》[Blog post]. Retrieved from https://kexue.fm/archives/9119
+
+《预训练语言模型的前世今生》[Blog post] https://www.cnblogs.com/nickchen121/p/16470569.html
