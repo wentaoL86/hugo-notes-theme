@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 title: 📓blog
-linktitle:📓 blog
+linktitle: blog
 summary: Notes on Python data structures.
 weight: 2
 icon: python
