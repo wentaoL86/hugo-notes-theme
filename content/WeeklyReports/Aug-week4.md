@@ -11,11 +11,20 @@ This is the weekly report from 2022/8/23-8/31
 
 ## topics
 
-
+- Diffusion model
+- Score matching
+- VAE
 
 ## Reading list
 
+[1] A DIFFUSION GENERATED METHOD FOR ORTHOGONAL MATRIX-VALUED FIELDS
 
+[2] The iterative convolution–thresholding method (ICTM) for image segmentation
+
+[3] DIFFUSION GENERATED METHODS FOR
+DENOISING TARGET-VALUED IMAGES
+
+[4] High-Resolution Image Synthesis with Latent Diffusion Models
 
 ## details
 
