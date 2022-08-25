@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-title: Weekly Reports
+title: WeeklyReports
 linktitle: WeeklyReports
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
