@@ -7,7 +7,7 @@ date: '2019-05-05T00:00:00+01:00'
 weight: 2
 ---
 
-A recommended reading list for the course.
+A candidate reading list for the reseach.
 
 ## Books
 
