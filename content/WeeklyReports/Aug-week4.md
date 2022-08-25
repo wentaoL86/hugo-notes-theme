@@ -14,6 +14,7 @@ This is the weekly report from 2022/8/23-8/31
 - Diffusion model
 - Score matching
 - VAE
+- Gesture Generation
 
 ## Reading list
 
