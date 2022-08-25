@@ -8,25 +8,21 @@ cover:
   caption: NASA
 ---
 
-Welcome to the _Notes_ template!
+Welcome to my notes site.
 
-The **Notes** starter template empowers you to easily create  **personal notes** and **knowledge bases** in a future-proof way.
+This site is used to record my research notes，including some blogs，weekly report.
 
-- It is your second brain 🧠, stored in future-proof Markdown files 
-- Supports audio, video, images, math, code, [Mermaid](https://mermaid.live/) diagrams, and [much more](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- Edit your notes online in GitHub, or any Git-connected Markdown app such as [Obsidian](https://obsidian.md/) or [Visual Studio Code](https://vscode.dev/)
+- Please contact me if you want to refer to some contents.
+- The Search tools can help you identify a blog or weekly report quickly.
 
-## Public vs Private Second Brain
+## simple introduction
 
-Choose between **publishing and sharing your knowledge online or creating a private second brain**.
+I am a Ph.d. student in The Chinese university of HongKong ShenZhen (CUHKSZ). My supervisors are Prof. Dong Wang and Prof. Li Liu.
 
-To create an **open second brain**, share your notes as a website [by deploying the Note template](https://wowchemy.com/hugo-themes/).
+My research interests：Semi-supervised learning；Active learning；Gesture generation; Cued Speech；Diffusion model.
 
-To create a **private second brain** either:
 
-- After deploying your Notes site above, [password protect your online second brain](https://docs.netlify.com/visitor-access/password-protection/) and configure your GitHub repo as **private**
-- [Download this template](https://github.com/wowchemy/hugo-notes-theme) and [run the tool locally](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
 
 ## Example notebook
 
-{{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}}
+{{< cta cta_text="👉 Check out my week ly report" cta_link="machine-learning" >}}
