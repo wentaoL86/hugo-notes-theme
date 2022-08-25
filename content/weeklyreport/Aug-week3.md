@@ -7,7 +7,15 @@ date: '2019-05-05T00:00:00+01:00'
 weight: 2
 ---
 
-A candidate reading list for the reseach.
+This is the weekly report from 2022/8/21-8/31
 
-## Books
+## topics
+
+
+
+## details
+
+
+
+## reference
 
