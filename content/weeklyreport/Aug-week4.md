@@ -13,7 +13,5 @@ A recommended reading list for the course.
 
 these are the paper of wangdong
 
-```
-{{< cite page="/publication/ictm.pdf" view="citation" >}}
-```
+
 
