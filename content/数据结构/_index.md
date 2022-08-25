@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: notebook
-linktitle: 数据结构
+title: blog
+linktitle: blog
 summary: Notes on Python data structures.
 weight: 2
 icon: python

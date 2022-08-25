@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: 🤖 Machine Learning
-linktitle: 🤖 Machine Learning
+title: 📑 Weekly Reports
+linktitle: 📑 Weekly Reports
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 # icon: book
