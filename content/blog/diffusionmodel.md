@@ -25,5 +25,5 @@ weight: 2
 
 首先，我们想要做一个像GAN那样的生成模型，它实际上是将一个随机噪声z变换成一个数据样本x的过程：
 
-
+<img src="../../../../../Application Support/typora-user-images/image-20220830141836559.png" alt="image-20220830141836559" style="zoom: 67%;" />
 
